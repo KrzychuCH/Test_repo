@@ -1,3 +1,4 @@
 Wymagania Systemowe:
 1) Login 
 2) Hasło
+3) autoryzacja microsoft
